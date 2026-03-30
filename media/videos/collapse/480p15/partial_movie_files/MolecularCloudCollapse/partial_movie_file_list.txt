@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/jpw/Analysis/manim/media/videos/collapse/480p15/partial_movie_files/MolecularCloudCollapse/1584795214_56239133_223132457.mp4'
+file 'file:/Users/jpw/Analysis/manim/media/videos/collapse/480p15/partial_movie_files/MolecularCloudCollapse/4072820271_1478397244_1120278915.mp4'
+file 'file:/Users/jpw/Analysis/manim/media/videos/collapse/480p15/partial_movie_files/MolecularCloudCollapse/4072820271_4217992463_2394704249.mp4'
+file 'file:/Users/jpw/Analysis/manim/media/videos/collapse/480p15/partial_movie_files/MolecularCloudCollapse/4072820271_2225658206_4011998873.mp4'
+file 'file:/Users/jpw/Analysis/manim/media/videos/collapse/480p15/partial_movie_files/MolecularCloudCollapse/4072820271_3602960992_1858863514.mp4'
+file 'file:/Users/jpw/Analysis/manim/media/videos/collapse/480p15/partial_movie_files/MolecularCloudCollapse/4072820271_1830117673_3687207695.mp4'
+file 'file:/Users/jpw/Analysis/manim/media/videos/collapse/480p15/partial_movie_files/MolecularCloudCollapse/4072820271_329797914_773287542.mp4'
+file 'file:/Users/jpw/Analysis/manim/media/videos/collapse/480p15/partial_movie_files/MolecularCloudCollapse/4072820271_637031433_874060806.mp4'
+file 'file:/Users/jpw/Analysis/manim/media/videos/collapse/480p15/partial_movie_files/MolecularCloudCollapse/4072820271_4152180432_3259132102.mp4'
+file 'file:/Users/jpw/Analysis/manim/media/videos/collapse/480p15/partial_movie_files/MolecularCloudCollapse/4072820271_1205892990_3600035868.mp4'
+file 'file:/Users/jpw/Analysis/manim/media/videos/collapse/480p15/partial_movie_files/MolecularCloudCollapse/4072820271_193823043_2570702691.mp4'
